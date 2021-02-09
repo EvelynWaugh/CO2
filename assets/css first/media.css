@@ -1,0 +1,853 @@
+@media (max-width: 1739.98px){
+	.container{
+		margin: 0 auto;
+		padding: 0 55px;
+	}
+	.row{
+		margin-left: -15px;
+		margin-right: -15px;
+	}	
+	header{
+		height: 128px;
+		padding: 0 55px;
+	}
+	.footer_logo{
+		margin-top: 60px;
+	}
+	.footer_logo img{
+		height: 52px;
+	}
+	.footer_info{
+		padding: 0 15px;
+	}
+	.footer_about{
+		padding: 0 15px;
+		margin-top: 64px;
+	}
+	.footer_follow{
+		padding: 0 15px;
+		margin-top: 64px;
+	}
+	.footer_phone{
+		margin-top: 34px;
+		font-size: 20px;
+		line-height: 24px;
+	}
+	.footer_email{
+		margin-top: 12px;
+		font-size: 20px;
+		line-height: 24px;
+	}
+	footer h3{
+		font-size: 18px;
+		line-height: 100%;
+	}
+	footer h3 + ul{
+		margin-top: 38px;
+		font-size: 18px;
+		line-height: 190%;
+	}
+	.footer_copy{
+		font-size: 14px;
+		line-height: 17px;
+		padding: 0 15px;
+	}
+	footer{
+		margin-top: 80px;
+	}
+	.menu_items ul{
+		font-size: 46px;
+		line-height: 56px;
+	}
+	.menu_items ul li + li{
+		margin-top: 45px;
+	}
+	.menu_link_cs:after{
+		top: -22px;
+		font-size: 11px;
+		line-height: 13px;
+		height: 23px;
+	}
+	.menu_item_col_2{
+		padding: 0 15px;
+	}
+	.menu_item_col_3{
+		padding: 0 15px;
+	}
+	.home_main_screen{
+		min-height: 600px;
+	}
+	.main_screen_title{
+		font-size: 38px;
+		line-height: 140%;
+	}
+	.main_screen_subtitle{
+		margin-top: 16px;
+		font-size: 18px;
+	}
+	.home_main_items {
+    margin-top: 38px;
+	}
+	.home_main_item{
+    padding: 0 15px;
+		padding-left: 75px;
+		padding-right: 50px;
+		padding-bottom: 50px;
+	}
+	.home_main_item_text{
+		line-height: 162%;
+	}
+	.home_main_item_icon{
+		left: 15px;
+	}
+	.contacts{
+		padding-top: 80px;
+		height: 700px;
+	}
+	.contacts_title{
+		padding: 0 15px;
+		font-size: 34px;
+		line-height: 140%;
+	}
+	.contacts_col_1{
+		padding: 0 15px;
+	}
+	.contacts_col_2{
+		padding: 0 15px;
+	}
+	.contacts_subtitle{
+		font-size: 25px;
+		line-height: 31px;
+		color: #0C0C0D;
+	}
+	.contacts_text{
+		margin-top: 35px;
+		font-size: 16px;
+		line-height: 150%;
+	}
+	.contacts_text p+p{
+		margin-top: 10px;
+	}
+	.type_page{
+		padding-top: 80px;
+		padding-bottom: 120px;
+	}
+	.type_page_row_next{
+		margin-top: 40px;
+	}
+	.type_page_left{
+		padding: 0 15px;
+	}
+	.type_page_right{
+		padding: 0 15px;
+	}
+	.type_page_left_title{
+		font-size: 32px;
+	}
+	.type_page_left_subtitle{
+		font-size: 26px;
+	}
+	.type_page_right_text{
+		font-size: 18px;
+	}
+	.breadcrumbs_wrap{
+		padding-bottom: 1px;
+		font-size: 14px;
+		line-height: 17px;
+	}
+	.breadcrumbs_delimiter{
+		margin-left: 40px;
+		margin-right: 40px;
+	}
+	.type_page_right_text h3{
+		font-size: 24px;
+	}
+	.type_page_right_text p+h3{
+		padding-top: 40px;
+	}
+	.about_us{
+		padding-top: 60px;
+		padding-bottom: 120px;
+	}
+	.about_us_left{
+		padding: 0 95px 0 15px;
+	}
+	.about_us_right{
+		padding: 0 15px;
+	}
+	.about_us_title{
+		font-size: 70px;
+		line-height: 100%;
+	}
+	.about_us_logo_block_img{
+		width: 188px;
+	}
+	.about_us_logo_block_text{
+		padding-left: 30px;
+		font-size: 21px;
+		line-height: 26px;
+	}
+	.about_us_row_1{
+		margin-top: 60px;
+	}
+	.about_us_row_2{
+		margin-top: 70px;
+	}
+	.about_us_row_1 .about_us_right{
+		font-size: 30px;
+	}
+	.about_us_left p{
+		font-size: 18px;
+	}
+	.about_us_left h3{
+		font-size: 32px;
+		margin-top: 0px;
+	}
+	.about_us_left h3 + p{
+		margin-top: 24px;
+	}
+	.bitcoin_co2 .type_page_right{
+		width: calc(100% / 12 * 7);
+	}
+	.bitcoin_co2 .type_page_left{
+		width: calc(100% / 12 * 5);
+	}
+	.bitcoin_co2_main .row{
+		height: calc(100vh - 128px);
+		padding-bottom: 128px;
+	}
+	.bitcoin_co2_main_title{
+		font-size: 32px;
+	}
+	.bitcoin_co2_main_more{
+		font-size: 16px;
+		line-height: 20px;
+		margin-top: 18px;
+	}
+	.bitcoin_co2_img_wrap:after{
+		width: 30px;
+		height: 30px;	
+		top: -10px;
+		left: calc(80% + 10px); 
+	}
+	.bitcoin_co2_row1{
+		padding-top: 80px;
+	}
+	.bitcoin_co2_row2{
+		margin-top: 70px;
+		padding-bottom: 120px;
+	}
+	.bitcoin_co2_title{
+		font-size: 25px;
+		padding-right: calc(100% / 10);
+	}
+	.bitcoin_co2_row2 .type_page_left_subtitle{
+		margin-top: 70px;
+		padding-right: calc(100% / 7)
+	}
+}
+@media (max-width: 1279.98px){
+	.container{
+		margin: 0 auto;
+		padding: 0 32px;
+	}
+	.row{
+		margin-left: -12px;
+		margin-right: -12px;
+	}
+	header{
+		height: 93px;
+		padding: 0 32px;
+	}
+	.logo img{
+		height: 37px;
+	}
+	.menu_btn svg{
+		height: 24px;
+	}
+	.menu .menu_btn svg{
+		height: 20px; 
+	}
+	.footer_logo{
+		margin-top: 30px;
+	}
+	.footer_logo img{
+		height: 44px;
+	}
+	.footer_info{
+		padding: 0 12px;
+		width: calc(100% / 12 * 6);
+	}
+	.footer_about{
+		padding: 0 12px;
+		margin-top: 30px;
+		width: calc(100% / 12 * 3);
+	}
+	.footer_follow{
+		padding: 0 12px;
+		margin-top: 30px;
+		width: calc(100% / 12 * 3);
+	}
+	.footer_phone{
+		margin-top: 30px;
+		font-size: 16px;
+		line-height: 20px;
+	}
+	.footer_email{
+		margin-top: 10px;
+		font-size: 16px;
+		line-height: 20px;
+	}
+	footer h3{
+		font-size: 15px;
+		line-height: 100%;
+	}
+	footer h3 + ul{
+		margin-top: 20px;
+		font-size: 15px;
+	}
+	.footer_copy{
+		font-size: 13px;
+		line-height: 16px;
+		padding: 0 12px;
+	}
+	footer{
+		margin-top: 80px;
+	}
+	.menu_items{
+		padding-top: 24px;
+		padding-bottom: 50px;
+	}
+	.menu_items ul{
+		font-size: 28px;
+		line-height: 34px;
+	}
+	.menu_items ul li + li{
+		margin-top: 32px;
+	}
+	.menu_link_cs:after{
+		top: -12px;
+		font-size: 11px;
+		line-height: 13px;
+		height: 23px;
+	}
+	.menu_item_col_1{
+		display: none;
+	}
+	.menu_item_col_2{
+		padding: 0 12px;
+		width: calc(100% / 2);
+	}
+	.menu_item_col_3{
+		padding: 0 12px;
+	}
+	.home_main_screen{
+		padding-top: 21px;
+	}
+	.main_screen_info{
+		margin-left: calc(100% / 12 * 4);
+	}
+	.main_screen_title{
+		font-size: 28px;
+		line-height: 140%;
+	}
+	.main_screen_subtitle{
+		margin-top: 10px;
+		font-size: 13px;
+	}
+	.home_main_items {
+    margin-top: 30px;
+	}
+	.home_main_item{
+    padding: 0 12px;
+		padding-bottom: 30px;
+	}
+	.home_main_item_title{
+		margin-top: 14px;
+		font-size: 14px;
+	}
+	.home_main_item_text{
+		margin-top: 10px;
+		font-size: 13px;
+	}
+	.home_main_item_icon{
+		width: 38px;
+		position: static;
+	}
+	.home_main_item_coming_soon{
+    margin-top: 19px;
+    font-size: 12px;
+    line-height: 14px;
+    height: 24px;
+    padding: 5px 10px;
+	}
+	.home{
+    background-size: auto 649px;
+		background-position: 82% 0;
+	}
+	.contacts{
+		padding-top: 60px;
+		height: 500px;
+	}
+	.contacts_title{
+		padding: 0 12px;
+		font-size: 30px;
+		width: 100%;
+		padding-bottom: 30px;
+	}
+	.contacts_col_1{
+		padding: 0 12px;
+		width: 50%;
+	}
+	.contacts_col_2{
+		padding: 0 12px;
+		width: 50%;
+	}
+	.contacts_subtitle{
+		font-size: 22px;
+		line-height: 27px;
+	}
+	.contacts_text{
+		margin-top: 30px;
+		font-size: 14px;
+		line-height: 150%;
+	}
+	.contacts_text p+p{
+		margin-top: 10px;
+	}
+	.type_page{
+		padding-top: 40px;
+		padding-bottom: 80px;
+	}
+	.type_page_row_next{
+		margin-top: 30px;
+	}
+	.type_page_left{
+		padding: 0 12px;
+	}
+	.type_page_right{
+		padding: 0 12px;
+	}
+	.type_page_left_title{
+		font-size: 22px;
+	}
+	.type_page_left_subtitle{
+		font-size: 19px;
+	}
+	.type_page_right_text{
+		font-size: 14px;
+	}
+	.breadcrumbs_wrap{
+		padding-bottom: 6px;
+		font-size: 12px;
+		line-height: 15px;
+	}
+	.breadcrumbs_delimiter{
+		width: 34px;
+		margin-left: 24px;
+		margin-right: 24px;
+	}
+	.type_page_right_text h3{
+		font-size: 16px;
+	}
+	.type_page_right_text p+h3{
+		padding-top: 30px;
+	}
+	.about_us{
+		padding-top: 50px;
+		padding-bottom: 80px;
+	}
+	.about_us_left{
+		padding: 0 12px;
+	}
+	.about_us_right{
+		padding: 0 12px;
+	}
+	.about_us_title{
+		font-size: 40px;
+	}
+	.about_us_logo_block_img{
+		width: 124px;
+	}
+	.about_us_logo_block_text{
+		padding-left: 20px;
+		font-size: 14px;
+		line-height: 17px;
+	}
+	.about_us_row_1{
+		margin-top: 40px;
+	}
+	.about_us_row_2{
+		margin-top: 50px;
+	}
+	.about_us_row_1 .about_us_right{
+		font-size: 20px;
+	}
+	.about_us_left p{
+		font-size: 14px;
+	}
+	.about_us_left h3{
+		font-size: 20px;
+	}
+	.about_us_left h3 + p{
+		margin-top: 16px;
+	}
+	.bitcoin_co2{
+		background-size: auto 100vh;
+	}
+	.bitcoin_co2_main .row{
+		height: calc(100vh - 93px);
+		padding-bottom: 93px;
+	}
+	.bitcoin_co2_main_title{
+		font-size: 22px;
+	}
+	.bitcoin_co2_main_more{
+		font-size: 14px;
+		line-height: 17px;
+		margin-top: 8px;
+	}
+	.bitcoin_co2_img_wrap:after{
+		width: 24px;
+		height: 24px;	
+		top: -8px;
+		left: auto;
+		right: 10px;		
+	}
+	.bitcoin_co2_row1{
+		padding-top: 40px;
+	}
+	.bitcoin_co2_row2{
+		margin-top: 50px;
+		padding-bottom: 80px;
+	}
+	.bitcoin_co2_title{
+		font-size: 18px;
+		padding-right: 0;
+	}
+	.bitcoin_co2_row2 .type_page_left_subtitle{
+		margin-top: 50px;
+		padding-right: 0
+	}
+	.bitcoin_co2_img_wrap img {
+    width: 100%;
+	}
+	.bitcoin_co2_row1 .type_page_right_text {
+    padding-right: 0;
+	}
+	.main_screen_info {
+    width: calc(100% / 12 * 8);
+	}
+}
+@media (max-width: 767.98px){
+	.container{
+		margin: 0 auto;
+		padding: 0 16px;
+	}
+	.row{
+		margin-left: -8px;
+		margin-right: -8px;
+	}
+	header{
+		height: auto;
+		padding: 0 16px;
+	}
+	.logo{
+		padding: 24px 0;
+	}
+	.logo img{
+		height: 30px;
+	}
+	.menu_btn svg{
+		height: 22px;
+	}
+	.menu .menu_btn svg{
+		height: 18px; 
+	}
+	.footer_logo{
+		margin-top: 30px;
+	}
+	.footer_logo img{
+		height: 40px;
+	}
+	.footer_info{
+		padding: 0 8px;
+		width: 100%;
+	}
+	.footer_about{
+		padding: 0 8px;
+		margin-top: 30px;
+		width: calc(100% / 12 * 6);
+	}
+	.footer_follow{
+		padding: 0 8px;
+		margin-top: 30px;
+		width: calc(100% / 12 * 6);
+	}
+	.footer_phone{
+		margin-top: 30px;
+		font-size: 20px;
+		line-height: 24px;
+	}
+	.footer_email{
+		margin-top: 6px;
+		font-size: 20px;
+		line-height: 24px;
+	}
+	footer h3{
+		font-size: 16px;
+		line-height: 100%;
+	}
+	footer h3 + ul{
+		margin-top: 20px;
+		font-size: 16px;
+	}
+	.footer_copy{
+		font-size: 14px;
+		line-height: 160%;
+		margin-top: 40px;
+		padding: 0 8px;
+	}
+	.footer_copy span{
+		display: block;
+	}
+	footer{
+		margin-top: 60px;
+	}
+	.menu_items{
+		padding-top: 30px;
+		padding-bottom: 60px;
+	}
+	.menu_items ul{
+		font-size: 26px;
+		line-height: 32px;
+	}
+	.menu_link_cs{
+		position: relative;
+		display: inline-block;
+		margin-bottom: 23px;
+		min-width: 120px;
+	}
+	.menu_link_cs:after{
+		position: absolute;
+		top: 100%;
+    left: 0;
+    display: inline-block;
+		font-size: 9px;
+		line-height: 11px;
+		height: 21px;
+	}
+	.menu_item_col_2{
+		padding: 0 8px;
+		width: 100%;
+	}
+	.menu_item_col_3{
+		margin-top: 32px;
+		padding: 0 8px;
+		width: 100%;
+	}
+	.home_main_screen{
+		min-height: 470px;
+		height: auto;
+	}
+	.main_screen_info{
+		padding-bottom: 60px;
+		margin-left: 0;
+		width: 100%;
+	}
+	.main_screen_title{
+		font-size: 26px;
+	}
+	.main_screen_subtitle{
+		font-size: 13px;
+		line-height: 162%;
+	}
+	section.line{
+		display: none;
+	}
+	.home_main_items {
+    margin-top: 0px;
+    margin-bottom: 60px;
+		position: static;
+	}
+	.home_main_item{
+		width: 100%;
+    padding: 0 8px;
+		padding-bottom: 40px;
+		padding-left: 54px;
+	}
+	.home_main_item_title{
+		margin-top: 0px;
+	}
+	.home_main_item_icon{
+		width: 38px;
+		position: absolute;
+		left: 8px;
+	}
+	.home {
+    background-size: auto 575px;
+    background-position: 30% 50px;
+	}
+	.contacts{
+		padding-top: 40px;
+		height: 500px;
+		background-size: contain;
+		background-position: 50% 100%;
+	}
+	.contacts_title{
+		padding: 0 8px;
+		font-size: 30px;
+		width: 100%;
+		padding-bottom: 30px;
+	}
+	.contacts_col_1{
+		padding: 0 8px;
+		width: 100%;
+	}
+	.contacts_col_2{
+		margin-top: 30px;
+		padding: 0 8px;
+		width: 100%;
+	}
+	.contacts_subtitle{
+		font-size: 22px;
+		line-height: 27px;
+	}
+	.contacts_text{
+		margin-top: 30px;
+		font-size: 14px;
+		line-height: 150%;
+	}
+	.contacts_text p+p{
+		margin-top: 10px;
+	}
+	.type_page{
+		padding-top: 40px;
+		padding-bottom: 100px;
+	}
+	.type_page_row_next{
+		margin-top: 24px;
+	}
+	.type_page_left{
+		padding: 0 8px;
+		width: 100%;
+	}
+	.type_page_right{
+		padding: 0 8px;
+		width: 100%;
+	}
+	.type_page_left_title{
+		font-size: 22px;
+		padding-bottom: 24px;
+	}
+	.type_page_left_subtitle{
+		font-size: 20px;
+	}
+	.type_page_right_text{
+		font-size: 14px;
+	}
+	.type_page_row_next .type_page_left{
+		margin-top: 30px;
+		order: 1;
+	}
+	.breadcrumbs_wrap{
+		order: 1;
+		width: calc(100% + 32px);
+		padding: 16px;
+		margin-left: -16px; 
+		margin-right: -16px; 
+		font-size: 12px;
+		line-height: 15px;
+		background: #000;
+		border-top: 1px solid rgba(255,255,255,0.16);
+	}
+	.breadcrumbs{
+		display: table;
+    line-height: 150%;
+	}
+	.breadcrumbs_delimiter{
+		margin-left: 20px;
+		margin-right: 20px;
+		display: inline-block;
+    vertical-align: middle;
+	}
+	.type_page_right_text h3{
+		font-size: 16px;
+	}
+	.type_page_right_text p+h3{
+		padding-top: 30px;
+	}
+	.about_us{
+		padding-top: 40px;
+		padding-bottom: 90px;
+	}
+	.about_us_left{
+		padding: 0 8px;
+		width: 100%;
+	}
+	.about_us_right{
+		padding: 0 8px;
+		width: 100%;
+	}
+	.about_us_title{
+		font-size: 34px;
+	}
+	.about_us_row_2{
+		margin-top: 60px;
+	}
+	.about_us_left h3{
+		font-size: 20px;
+	}
+	.about_us_left h3 + p{
+		margin-top: 16px;
+	}
+	.about_us_logo_block{
+		margin-bottom: 30px;
+	}
+	.about_us_right_img{
+		display:none;
+	}
+	.about_us_right_m_img{
+		padding: 24px 0;
+		margin-top: 0!important;
+	}
+	.about_us_right_m_img img{
+		display: block;
+		width: 100%;
+	}
+	.bitcoin_co2 .breadcrumbs_wrap{
+		background: none;
+	}
+	.bitcoin_co2 .type_page_right{
+		width: 100%;
+	}
+	.bitcoin_co2 .type_page_left{
+		width: 100%;
+	}
+	.bitcoin_co2_main .row{
+		height: calc(100vh - 132px);
+		padding-bottom: 132px;
+	}
+	.bitcoin_co2_img_wrap:after{
+		width: 20px;
+		height: 20px;	
+		top: -6px;
+	}
+	.bitcoin_co2_row1{
+		padding-top: 40px;
+	}
+	.bitcoin_co2_row2{
+		margin-top: 50px;
+		padding-bottom: 100px;
+	}
+	.bitcoin_co2_title{
+		font-size: 20px;
+		padding-bottom: 24px;
+	}
+	.bitcoin_co2_img_wrap{
+		padding-bottom: 24px;
+	}
+	.bitcoin_co2_row2 .type_page_left_subtitle{
+		margin-top: 30px;
+	}
+}
