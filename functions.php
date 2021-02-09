@@ -886,7 +886,6 @@ function co2_quantity_input($args = array(), $product = null, $echo = true, $met
 ?>
 
 	<?php if ($method == 'quantity') : ?>
-		<div></div>
 		<div class="co2-quantity-wrapper buy_from_choose">
 			<?php if (!empty($args['price'])) : ?>
 				<?php $index = 0; ?>
